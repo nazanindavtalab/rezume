@@ -1,0 +1,24 @@
+.txtBox{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.nav-item:hover{
+    text-decoration:  underline rgba(167, 236, 121, 0.622) 3px;
+    transition-duration: 0.7s;
+    
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly 5px;
+    text-align: center;
+    font-family: "Trirong", "serif";
+    font-size: medium;
+    margin-bottom: 150px;
+}
+
+
