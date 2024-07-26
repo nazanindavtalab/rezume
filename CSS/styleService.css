@@ -1,0 +1,116 @@
+.main{
+    margin-bottom: 250px;
+}
+
+.title{
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    font-family: "Fjalla one";
+    font-weight: 400;
+}
+
+.cardOne{
+    background-color:  #333333;
+    color:white;
+    border-radius: 5px;
+    width: 350px;
+    height: 480px;
+    padding: 30px;
+    text-wrap: wrap;
+    font-family: "Raleway";
+}
+.icons{
+
+    background: #bac964;
+    text-align: center;    
+    border-radius: 151px;
+    width: 100px;
+    height: 100px;   
+    margin: 0px 0px 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 35%;
+    
+}
+
+
+.cardsPart{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.more-link{
+    text-decoration: none;
+    color: #c9df8b;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.headTxt{
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    font-family: "Fjalla one";
+    font-weight: 400;
+
+}
+
+.txtPart{
+    margin-bottom: 180px;
+    margin-left: 64px;
+    margin-right: 64px;
+}
+
+.blogCards{
+    background-color:  #333333;
+    color: white;
+    width: 350px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 15px;
+    
+}
+
+.blogCards h2{
+    font-size: 20px;
+}
+
+.blogCards p{
+    font-size: 16px;
+}
+
+
+.blogMain{
+    display: flex;
+    justify-content: space-between;
+    text-wrap: wrap;
+    font-family: "Raleway";
+}
+
+.img{
+    width: 350px;
+    height: 260px;
+
+}
+
+.name{
+    padding: 20px 30px 0px;
+    font-weight: 300;
+}
+
+.para{
+
+    padding: 20px 30px 0px;
+    font-weight: 100;
+} 
+
+
+
+

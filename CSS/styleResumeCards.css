@@ -1,0 +1,33 @@
+
+.container{
+    margin-top: 50px;
+}
+.txtPart{
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: "Raleway";
+
+
+}
+
+.cardsboxOne{
+    width: 540px;
+    height: 230px;
+    border: 1px solid #333333;
+    background-color: #333333;
+    border-radius: 5px;
+    margin: 0px 0px 24px;
+    padding: 30px;
+}
+
+.txtspan{
+    margin-bottom: 50px;
+}
+
+.cardsLeft{
+    padding-top: 150px;
+}
+
